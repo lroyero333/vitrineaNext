@@ -15,7 +15,7 @@ const StaticPropsDetail = ({ id, errors }: Props) => {
 
     setTimeout(() => {
       window.location.href =
-        "https://play.google.com/store/apps/details?id=com.sv.vitrinnea.ltda";
+        "https://play.google.com/store/apps/details?id=com.humanbionics.vitrinea&pcampaignid=web_share";
     }, 2000);
   }, [id]);
 

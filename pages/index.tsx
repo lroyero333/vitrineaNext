@@ -11,7 +11,7 @@ export default function Home() {
     window.location.href = `vitrineaapp://product/${id}`;
     setTimeout(() => {
       window.location.href =
-        "https://play.google.com/store/apps/details?id=com.sv.vitrinnea.ltda";
+        "https://play.google.com/store/apps/details?id=com.humanbionics.vitrinea&pcampaignid=web_share";
     }, 2000);
   }, [router.query]);
 
